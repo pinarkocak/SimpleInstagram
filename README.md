@@ -24,7 +24,7 @@ In the project, we benedited from Firebase database to save images that user upl
 
       npm install firebase --save
       
-In addition, we used Firebase's authentication functions such as createUserWithEmailAndPassword(), signInWithEmailAndPassword() and sendPasswordResetEmail(). You can visit Authenticate with Firebase tutorial for more information about usage of these functions <a href="https://firebase.google.com/docs/auth/web/password-autho">here.</a>
+In addition, we used Firebase's authentication functions such as createUserWithEmailAndPassword(), signInWithEmailAndPassword() and sendPasswordResetEmail(). You can visit Authenticate with Firebase tutorial for more information about usage of these functions <a href="https://firebase.google.com/docs/auth/web/password-auth">here.</a>
 
 For photo selection and resizing of the photo from gallery:
 
@@ -54,6 +54,6 @@ Please add uses-permissions into AndroidManifest.xml to use camera. It is necess
       <uses-feature android:name="android.hardware.camera" />
       <uses-feature android:name="android.hardware.camera.autofocus" />
       
-Note that: in this project the part of camera is excerpted. You can visit the page <a href="https://github.com/react-native-community/react-native-camera">here.</a>
+Note that: in this project the part of camera has not written by me so you can visit the page that we get camera codes, <a href="https://github.com/react-native-community/react-native-camera">here.</a>
       
       
