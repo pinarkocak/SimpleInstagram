@@ -1,6 +1,6 @@
 # SimpleInstagram
 
-First of all, we wrote the command to CMD to create the React-Native app:
+First of all, we wrote the command to CMD to create the React-Native project:
 
       react-native init project_name
 
@@ -24,7 +24,7 @@ In the project, we benedited from Firebase database to save images that user upl
 
       npm install firebase --save
       
-In addition, we used Firebase's authentication functions such as createUserWithEmailAndPassword(), signInWithEmailAndPassword() and sendPasswordResetEmail(). You can visit Authenticate with Firebase tutorial for more information about usage of these functions <a href="https://firebase.google.com/docs/auth/web/password-auth">here.</a>
+In addition, we used Firebase's authentication functions such as createUserWithEmailAndPassword(), signInWithEmailAndPassword() and sendPasswordResetEmail(). You can visit <a href="https://firebase.google.com/docs/auth/web/password-auth">Authenticate with Firebase tutorial</a> for more information about usage of these functions. 
 
 For photo selection and resizing of the photo from gallery:
 
