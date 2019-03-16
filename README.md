@@ -1,6 +1,6 @@
 # SimpleInstagram
 
-First of all, we wrote the command to CMD to create the React-Native project:
+First of all, we wrote the command to CMD to create a React-Native project:
 
       react-native init project_name
 
